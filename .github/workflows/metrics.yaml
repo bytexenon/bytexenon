@@ -1,6 +1,7 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule updates (each day)
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
@@ -34,7 +35,7 @@ jobs:
           plugin_achievements_threshold: C
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: issue, issue_comment, pull_request, pull_request_comment, review, commit
+          plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: public
@@ -54,15 +55,3 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_followup: yes
-          plugin_followup_sections: followers, following
-          plugin_gists: yes
-          plugin_gists_limit: 5
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_limit: 8
-          plugin_lines: yes
-          plugin_lines_history: 1y
-          plugin_stars: yes
-          plugin_stars_limit: 4
