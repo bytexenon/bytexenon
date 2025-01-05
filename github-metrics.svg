@@ -2827,7 +2827,7 @@ Reviewed-by: bytexenon &lt;bytexenon@wearehackerone.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 942k out of 216m repositories</span>
+                                    <span class="gh">ranked 942k out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 31 stars</div>
                             </div>
@@ -2842,7 +2842,7 @@ Reviewed-by: bytexenon &lt;bytexenon@wearehackerone.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.031485284052022 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.243668720054757 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2909,7 +2909,7 @@ Reviewed-by: bytexenon &lt;bytexenon@wearehackerone.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.81m out of 216m repositories</span>
+                                    <span class="gh">ranked 2.81m out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -3141,7 +3141,7 @@ Reviewed-by: bytexenon &lt;bytexenon@wearehackerone.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2025, 05:30:09 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2025, 06:18:57 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
