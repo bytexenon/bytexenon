@@ -2196,15 +2196,15 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 9.956521739130434)">
+                            <g transform="translate(-8.5, 9.695652173913043)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0434782608695654 0,2.0434782608695654 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0434782608695654 1.7,3.0434782608695654 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3043478260869565 0,2.3043478260869565 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3043478260869565 1.7,3.3043478260869565 z"/>
                             </g>
-                            <g transform="translate(-10.2, 9.130434782608695)">
+                            <g transform="translate(-10.2, 9.391304347826088)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.869565217391305 0,3.8695652173913047 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.8695652173913047 1.7,4.869565217391305 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.608695652173913 0,3.608695652173913 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.608695652173913 1.7,4.608695652173913 z"/>
                             </g>
                         </g>
                         <g transform="translate(85, 50)">
@@ -2632,7 +2632,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 755k out of 224m repositories</span>
+                                    <span class="gh">ranked 755k out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 42 stars</div>
                             </div>
@@ -2752,7 +2752,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.32m out of 224m repositories</span>
+                                    <span class="gh">ranked 2.32m out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -3067,7 +3067,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2025, 15:15:07 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jan 2025, 16:15:08 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
